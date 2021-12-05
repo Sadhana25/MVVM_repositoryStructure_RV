@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Activa/Desktop/MyApplication/app/src/main/res/drawable/ic_save.xml" value="0.1" />
+        <entry key="..\:/Users/Activa/Desktop/MyApplication/app/src/main/res/drawable/side_nav_bar.xml" value="0.1" />
+        <entry key="..\:/Users/Activa/Desktop/MyApplication/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/Activa/Desktop/MyApplication/app/src/main/res/layout/fragment_allmatch.xml" value="0.134375" />
+        <entry key="..\:/Users/Activa/Desktop/MyApplication/app/src/main/res/layout/fragment_savematch.xml" value="0.134375" />
+        <entry key="..\:/Users/Activa/Desktop/MyApplication/app/src/main/res/layout/list_item.xml" value="0.1" />
+        <entry key="..\:/Users/Activa/Desktop/MyApplication/app/src/main/res/menu/activity_main_drawer.xml" value="0.1" />
+        <entry key="..\:/Users/Activa/Desktop/Task/MyApplication/app/src/main/res/layout/activity_main.xml" value="0.1265625" />
+        <entry key="..\:/Users/Activa/Desktop/Task/MyApplication/app/src/main/res/layout/app_bar_main.xml" value="0.1" />
+        <entry key="..\:/Users/Activa/Desktop/Task/MyApplication/app/src/main/res/layout/content_main.xml" value="0.1265625" />
+        <entry key="..\:/Users/Activa/Desktop/Task/MyApplication/app/src/main/res/layout/fragment_allmatch.xml" value="0.14166666666666666" />
+        <entry key="..\:/Users/Activa/Desktop/Task/MyApplication/app/src/main/res/layout/fragment_savematch.xml" value="0.10208333333333333" />
+        <entry key="..\:/Users/Activa/Desktop/Task/MyApplication/app/src/main/res/layout/list_item.xml" value="0.15353260869565216" />
+        <entry key="..\:/Users/Activa/Desktop/Task/MyApplication/app/src/main/res/layout/nav_header_main.xml" value="0.13072916666666667" />
+        <entry key="..\:/Users/Activa/Desktop/Task/MyApplication/app/src/main/res/menu/activity_main_drawer.xml" value="0.1265625" />
+        <entry key="..\:/Users/Activa/Desktop/temp/MyApplication/app/src/main/res/layout/fragment_allmatch.xml" value="0.12447916666666667" />
+        <entry key="..\:/Users/Activa/Desktop/temp/MyApplication/app/src/main/res/layout/fragment_savematch.xml" value="0.12" />
+        <entry key="..\:/Users/MY/Desktop/MyApplication/app/src/main/res/drawable/ic_launcher_background.xml" value="0.13958333333333334" />
+        <entry key="..\:/Users/MY/Desktop/MyApplication/app/src/main/res/drawable/ic_menu_gallery.xml" value="0.159375" />
+        <entry key="..\:/Users/MY/Desktop/MyApplication/app/src/main/res/drawable/ic_save.xml" value="0.13958333333333334" />
+        <entry key="..\:/Users/MY/Desktop/MyApplication/app/src/main/res/drawable/ic_starall.xml" value="0.13958333333333334" />
+        <entry key="..\:/Users/MY/Desktop/MyApplication/app/src/main/res/layout/activity_main.xml" value="0.1787037037037037" />
+        <entry key="..\:/Users/MY/Desktop/MyApplication/app/src/main/res/layout/fragment_allmatch.xml" value="0.14322916666666666" />
+        <entry key="..\:/Users/MY/Desktop/MyApplication/app/src/main/res/layout/fragment_home.xml" value="0.15208333333333332" />
+        <entry key="..\:/Users/MY/Desktop/MyApplication/app/src/main/res/layout/fragment_savematch.xml" value="0.17083333333333334" />
+        <entry key="..\:/Users/MY/Desktop/MyApplication/app/src/main/res/layout/list_item.xml" value="0.18385416666666668" />
+        <entry key="..\:/Users/MY/Desktop/MyApplication/app/src/main/res/layout/nav_header_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/MY/Desktop/MyApplication/app/src/main/res/menu/activity_main_drawer.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/MY/Desktop/MyApplication/app/src/main/res/menu/main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/MY/Desktop/MyApplication/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.13958333333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
